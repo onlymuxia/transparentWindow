@@ -1,0 +1,9 @@
+D:\work\vs\LEDShowSerialPort\LEDShowSerialPort\bin\Release\transparentWindow.exe.config
+D:\work\vs\LEDShowSerialPort\LEDShowSerialPort\bin\Release\transparentWindow.exe
+D:\work\vs\LEDShowSerialPort\LEDShowSerialPort\bin\Release\transparentWindow.pdb
+D:\work\vs\LEDShowSerialPort\LEDShowSerialPort\obj\Release\LEDShowSerialPort.Main.resources
+D:\work\vs\LEDShowSerialPort\LEDShowSerialPort\obj\Release\LEDShowSerialPort.ParameterSet.resources
+D:\work\vs\LEDShowSerialPort\LEDShowSerialPort\obj\Release\transparentWindow.Properties.Resources.resources
+D:\work\vs\LEDShowSerialPort\LEDShowSerialPort\obj\Release\Winform_Transparent.csproj.GenerateResource.Cache
+D:\work\vs\LEDShowSerialPort\LEDShowSerialPort\obj\Release\transparentWindow.exe
+D:\work\vs\LEDShowSerialPort\LEDShowSerialPort\obj\Release\transparentWindow.pdb
